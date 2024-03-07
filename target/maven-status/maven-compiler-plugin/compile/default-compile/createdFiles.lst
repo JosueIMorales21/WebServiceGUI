@@ -1,0 +1,13 @@
+com\palacio\webservicegui\ResponseHandler\ResponseHandler.class
+com\palacio\webservicegui\Connection\SearchNewCard.class
+com\palacio\webservicegui\LogConfig\LogConfig.class
+com\palacio\webservicegui\Connection\SecURL.class
+com\palacio\webservicegui\Connection\FirstConnection.class
+com\palacio\webservicegui\LogConfig\MyCustomFormatter.class
+com\palacio\webservicegui\Properties\ConfigProperties.class
+com\palacio\webservicegui\ResponseHandler\ErrorMessage.class
+module-info.class
+com\palacio\webservicegui\App.class
+com\palacio\webservicegui\ResponseHandler\ValidateTextField.class
+com\palacio\webservicegui\Main.class
+com\palacio\webservicegui\Controller.class

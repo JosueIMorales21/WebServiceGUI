@@ -1,0 +1,54 @@
+[04-03-2024 17:43:09][INFORMACIÓN] -------------------------
+[04-03-2024 17:43:09][INFORMACIÓN] -------------------------
+[04-03-2024 17:43:13][INFORMACIÓN] Tarjeta a utilizar: 1661
+[04-03-2024 17:43:13][INFORMACIÓN] CARD TYPE: M
+[04-03-2024 17:43:13][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:43:13][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:43:14][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:43:14][INFORMACIÓN] Analizando tarjeta 1661...
+[04-03-2024 17:43:14][INFORMACIÓN] RESPUESTA: {"index":0,"sorting":null,"enableSorting":true,"numberRowsVisualized":2,"totalNumberRows":2,"data":[{"productDescription":"CHIP CREDITO CLASICA","customerId":3757500,"firstName":"CRUZ","enabledUsePersonalDataDate":"2021-06-27 00:00:00","sex":"F","accountClass":"CREDIT","plasticCardStatus":"ACTIVE","identificationTypeId":3,"productClass":"C","cardType":"M","customerSegmentDescription":"CLIENTE P.H.","customerClass":"P","cardId":"6620010257951661","lastName2":"SAN PEDRO","lastName1":"MORALES","birthDate":"1967-05-03 00:00:00","celphoneNumber":"2215962264","lastEmailAddress":"meidi.msp3@gmail.com","identificationNumber":"MOSC670503SB1","customerType":"C","productId":10,"accountId":14282926,"maritalStatus":"D","plasticCardBillingLevel":1,"cardProfileDescription":"Vcto. :60 /  Renov :60 /  Permite Renov :T","customerSegmentId":1,"merchantInd":"F","aliasName":"CRUZ MORALES SAN PEDRO","cardProfileId":1,"identificationTypeDescription":"R.F.C."},{"productDescription":"CHIP CREDITO CLASICA","customerId":3757500,"firstName":"CRUZ","enabledUsePersonalDataDate":"2021-06-27 00:00:00","sex":"F","accountClass":"LOYALTY","plasticCardStatus":"ACTIVE","identificationTypeId":3,"productClass":"C","cardType":"M","customerSegmentDescription":"CLIENTE P.H.","customerClass":"P","cardId":"6620010257951661","lastName2":"SAN PEDRO","lastName1":"MORALES","birthDate":"1967-05-03 00:00:00","celphoneNumber":"2215962264","lastEmailAddress":"meidi.msp3@gmail.com","identificationNumber":"MOSC670503SB1","customerType":"C","productId":10,"accountId":14365226,"maritalStatus":"D","plasticCardBillingLevel":1,"cardProfileDescription":"Vcto. :60 /  Renov :60 /  Permite Renov :T","customerSegmentId":1,"merchantInd":"F","aliasName":"CRUZ MORALES SAN PEDRO","cardProfileId":1,"identificationTypeDescription":"R.F.C."}],"totalizedColumns":null}
+[04-03-2024 17:43:14][INFORMACIÓN] Intentando conectar con la tarjeta: 1661
+[04-03-2024 17:43:14][INFORMACIÓN] Consulta realizada exitosamente. Código de autorización: 00
+[04-03-2024 17:43:14][INFORMACIÓN] Intentando conectar con la tarjeta: 1661
+[04-03-2024 17:43:15][INFORMACIÓN] Consulta realizada exitosamente. Código de autorización: 00
+[04-03-2024 17:50:56][INFORMACIÓN] -------------------------
+[04-03-2024 17:50:56][INFORMACIÓN] -------------------------
+[04-03-2024 17:51:03][INFORMACIÓN] Tarjeta a utilizar: 1661
+[04-03-2024 17:51:03][INFORMACIÓN] CARD TYPE: M
+[04-03-2024 17:51:03][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:51:03][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:51:04][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:51:04][INFORMACIÓN] Analizando tarjeta 1661...
+[04-03-2024 17:51:04][INFORMACIÓN] RESPUESTA: {"index":0,"sorting":null,"enableSorting":true,"numberRowsVisualized":2,"totalNumberRows":2,"data":[{"productDescription":"CHIP CREDITO CLASICA","customerId":3757500,"firstName":"CRUZ","enabledUsePersonalDataDate":"2021-06-27 00:00:00","sex":"F","accountClass":"CREDIT","plasticCardStatus":"ACTIVE","identificationTypeId":3,"productClass":"C","cardType":"M","customerSegmentDescription":"CLIENTE P.H.","customerClass":"P","cardId":"6620010257951661","lastName2":"SAN PEDRO","lastName1":"MORALES","birthDate":"1967-05-03 00:00:00","celphoneNumber":"2215962264","lastEmailAddress":"meidi.msp3@gmail.com","identificationNumber":"MOSC670503SB1","customerType":"C","productId":10,"accountId":14282926,"maritalStatus":"D","plasticCardBillingLevel":1,"cardProfileDescription":"Vcto. :60 /  Renov :60 /  Permite Renov :T","customerSegmentId":1,"merchantInd":"F","aliasName":"CRUZ MORALES SAN PEDRO","cardProfileId":1,"identificationTypeDescription":"R.F.C."},{"productDescription":"CHIP CREDITO CLASICA","customerId":3757500,"firstName":"CRUZ","enabledUsePersonalDataDate":"2021-06-27 00:00:00","sex":"F","accountClass":"LOYALTY","plasticCardStatus":"ACTIVE","identificationTypeId":3,"productClass":"C","cardType":"M","customerSegmentDescription":"CLIENTE P.H.","customerClass":"P","cardId":"6620010257951661","lastName2":"SAN PEDRO","lastName1":"MORALES","birthDate":"1967-05-03 00:00:00","celphoneNumber":"2215962264","lastEmailAddress":"meidi.msp3@gmail.com","identificationNumber":"MOSC670503SB1","customerType":"C","productId":10,"accountId":14365226,"maritalStatus":"D","plasticCardBillingLevel":1,"cardProfileDescription":"Vcto. :60 /  Renov :60 /  Permite Renov :T","customerSegmentId":1,"merchantInd":"F","aliasName":"CRUZ MORALES SAN PEDRO","cardProfileId":1,"identificationTypeDescription":"R.F.C."}],"totalizedColumns":null}
+[04-03-2024 17:51:51][INFORMACIÓN] -------------------------
+[04-03-2024 17:51:51][INFORMACIÓN] -------------------------
+[04-03-2024 17:51:55][INFORMACIÓN] Tarjeta a utilizar: 1661
+[04-03-2024 17:51:55][INFORMACIÓN] CARD TYPE: M
+[04-03-2024 17:51:55][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:51:55][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:51:56][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:51:56][INFORMACIÓN] Analizando tarjeta 1661...
+[04-03-2024 17:52:41][INFORMACIÓN] -------------------------
+[04-03-2024 17:52:41][INFORMACIÓN] -------------------------
+[04-03-2024 17:52:46][INFORMACIÓN] Tarjeta a utilizar: 1646
+[04-03-2024 17:52:46][INFORMACIÓN] CARD TYPE: M
+[04-03-2024 17:52:46][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:52:46][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:52:46][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:52:46][INFORMACIÓN] Analizando tarjeta 1646...
+[04-03-2024 17:53:31][INFORMACIÓN] -------------------------
+[04-03-2024 17:53:31][INFORMACIÓN] -------------------------
+[04-03-2024 17:53:41][INFORMACIÓN] Tarjeta a utilizar: 4787
+[04-03-2024 17:53:41][INFORMACIÓN] CARD TYPE: A
+[04-03-2024 17:53:41][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:53:41][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:53:41][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:53:41][INFORMACIÓN] Analizando tarjeta 4787...
+[04-03-2024 17:54:03][INFORMACIÓN] -------------------------
+[04-03-2024 17:54:03][INFORMACIÓN] -------------------------
+[04-03-2024 17:54:07][INFORMACIÓN] Tarjeta a utilizar: 4787
+[04-03-2024 17:54:07][INFORMACIÓN] CARD TYPE: A
+[04-03-2024 17:54:07][INFORMACIÓN] URL seleccionada: 10.10.1.7 (PRODUCCIÓN)
+[04-03-2024 17:54:07][INFORMACIÓN] Intentando obtener el token de autenticación...
+[04-03-2024 17:54:08][INFORMACIÓN] Token extraído correctamente.
+[04-03-2024 17:54:08][INFORMACIÓN] Analizando tarjeta 4787...
